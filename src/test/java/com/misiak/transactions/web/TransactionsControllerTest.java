@@ -31,8 +31,8 @@ class TransactionsControllerTest {
 
     @ParameterizedTest
     @CsvSource({
-            "test-data/example_request.json, test-data/example_response.json",
-            "test-data/request_100000_transactions.json, test-data/response_100000_transactions.json"
+            "test-data/transactions/example_request.json, test-data/transactions/example_response.json",
+            "test-data/transactions/request_100000_transactions.json, test-data/transactions/response_100000_transactions.json"
     })
     void testCalculateOrder(String requestFile, String responseFile) throws Exception {
         String requestBody = Files.readString(Path.of(new ClassPathResource(requestFile).getURI()));
