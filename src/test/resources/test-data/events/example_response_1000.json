@@ -1,0 +1,5086 @@
+[
+  [
+    {
+      "numberOfPlayers": 4,
+      "points": 999
+    },
+    {
+      "numberOfPlayers": 15,
+      "points": 999
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 997
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 3,
+      "points": 998
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 998
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 993
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 968
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 996
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 992
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 965
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 949
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 7,
+      "points": 991
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 991
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 958
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 6,
+      "points": 989
+    },
+    {
+      "numberOfPlayers": 11,
+      "points": 986
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 948
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 942
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 904
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 989
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 988
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 812
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 8,
+      "points": 984
+    },
+    {
+      "numberOfPlayers": 12,
+      "points": 983
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 982
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 954
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 808
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 982
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 779
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 7,
+      "points": 981
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 975
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 971
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 978
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 949
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 977
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 940
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 975
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 954
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 777
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 974
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 973
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 974
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 938
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 776
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 974
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 936
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 970
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 968
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 970
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 948
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 726
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 968
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 947
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 921
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 715
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 966
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 964
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 940
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 963
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 943
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 962
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 886
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 961
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 937
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 958
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 715
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 954
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 953
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 939
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 953
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 919
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 949
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 926
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 948
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 920
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 698
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 947
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 684
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 944
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 930
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 913
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 944
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 921
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 662
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 943
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 941
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 943
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 863
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 940
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 919
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 653
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 940
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 908
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 839
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 936
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 917
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 625
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 928
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 916
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 903
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 928
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 832
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 928
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 624
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 927
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 912
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 619
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 924
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 907
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 923
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 920
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 902
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 814
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 920
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 806
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 919
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 897
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 608
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 918
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 864
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 914
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 893
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 805
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 913
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 911
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 912
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 893
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 851
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 910
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 816
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 908
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 864
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 906
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 792
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 904
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 902
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 815
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 900
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 895
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 899
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 895
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 570
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 896
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 886
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 895
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 889
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 790
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 895
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 857
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 894
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 769
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 890
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 879
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 889
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 882
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 815
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 889
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 515
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 888
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 874
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 886
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 812
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 884
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 872
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 884
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 810
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 884
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 882
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 495
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 881
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 865
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 494
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 875
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 843
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 458
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 873
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 838
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 443
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 872
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 853
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 872
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 870
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 863
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 864
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 861
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 863
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 849
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 862
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 857
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 438
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 861
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 832
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 791
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 860
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 731
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 859
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 831
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 729
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 412
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 856
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 844
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 406
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 856
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 706
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 851
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 850
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 847
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 662
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 844
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 712
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 841
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 836
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 828
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 808
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 834
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 819
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 834
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 832
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 822
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 712
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 831
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 404
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 824
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 820
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 639
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 823
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 818
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 622
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 822
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 812
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 383
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 820
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 708
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 819
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 808
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 345
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 817
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 809
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 815
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 809
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 319
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 815
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 813
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 802
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 811
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 724
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 810
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 804
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 810
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 617
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 807
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 300
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 807
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 806
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 722
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 806
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 585
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 805
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 798
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 715
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 804
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 793
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 670
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 803
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 796
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 800
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 788
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 557
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 800
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 786
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 798
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 294
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 798
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 294
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 797
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 532
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 796
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 792
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 795
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 283
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 790
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 743
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 271
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 781
+    },
+    {
+      "numberOfPlayers": 11,
+      "points": 780
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 781
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 514
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 778
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 512
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 777
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 761
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 777
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 771
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 713
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 766
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 735
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 437
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 763
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 760
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 718
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 250
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 759
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 700
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 759
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 758
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 712
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 756
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 738
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 756
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 705
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 756
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 244
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 750
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 226
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 749
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 719
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 749
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 697
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 748
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 592
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 744
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 590
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 742
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 419
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 740
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 705
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 740
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 687
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 737
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 734
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 158
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 733
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 685
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 733
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 677
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 733
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 667
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 731
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 578
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 731
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 730
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 666
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 119
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 729
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 721
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 632
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 712
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 710
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 576
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 708
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 699
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 95
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 708
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 707
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 664
+    },
+    {
+      "numberOfPlayers": 1,
+      "points": 57
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 707
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 653
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 416
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 706
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 691
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 701
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 689
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 701
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 685
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 692
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 650
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 691
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 689
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 687
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 639
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 687
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 627
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 687
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 684
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 684
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 684
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 653
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 681
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 381
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 681
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 678
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 651
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 676
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 673
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 639
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 672
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 634
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 671
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 666
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 612
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 664
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 633
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 660
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 630
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 570
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 660
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 609
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 659
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 656
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 598
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 653
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 651
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 623
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 648
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 628
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 646
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 616
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 645
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 644
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 596
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 361
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 642
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 592
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 360
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 637
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 563
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 636
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 562
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 635
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 611
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 635
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 560
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 633
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 580
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 632
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 626
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 630
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 550
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 627
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 618
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 627
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 610
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 621
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 607
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 620
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 619
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 547
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 617
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 544
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 617
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 614
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 537
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 612
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 602
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 343
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 611
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 601
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 611
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 577
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 611
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 608
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 330
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 607
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 593
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 606
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 534
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 606
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 507
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 604
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 589
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 604
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 578
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 599
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 577
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 596
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 569
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 495
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 596
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 550
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 493
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 595
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 505
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 594
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 503
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 593
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 541
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 593
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 590
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 586
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 590
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 500
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 590
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 586
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 536
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 582
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 498
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 580
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 493
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 579
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 512
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 579
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 578
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 533
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 574
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 571
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 530
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 569
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 492
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 556
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 491
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 319
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 548
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 520
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 546
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 545
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 508
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 545
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 301
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 543
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 497
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 542
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 491
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 540
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 525
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 540
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 494
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 539
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 379
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 538
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 464
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 537
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 456
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 536
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 432
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 534
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 493
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 534
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 362
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 529
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 518
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 529
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 527
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 430
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 526
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 426
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 524
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 410
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 524
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 357
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 522
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 346
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 521
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 510
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 521
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 464
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 521
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 518
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 316
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 516
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 291
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 514
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 408
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 512
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 494
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 511
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 488
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 511
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 479
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 507
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 503
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 481
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 497
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 405
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 490
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 288
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 488
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 485
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 475
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 485
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 284
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 482
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 480
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 479
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 192
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 476
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 464
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 475
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 460
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 454
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 474
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 284
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 471
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 454
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 468
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 447
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 175
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 462
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 444
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 461
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 442
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 458
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 138
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 457
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 438
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 457
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 426
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 457
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 453
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 436
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 452
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 436
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 450
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 416
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 448
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 415
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 444
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 437
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 408
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 434
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 431
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 433
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 407
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 8,
+      "points": 430
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 429
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 136
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 430
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 407
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 430
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 404
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 428
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 402
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 77
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 428
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 398
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 422
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 396
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 420
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 419
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 282
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 417
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 244
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 416
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 407
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 415
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 382
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 376
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 412
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 230
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 411
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 372
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 410
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 405
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 401
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 405
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 379
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 405
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 356
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 405
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 72
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 400
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 68
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 399
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 371
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 399
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 398
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 368
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 398
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 397
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 392
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 397
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 55
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 396
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 159
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 395
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 39
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 394
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 92
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 393
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 392
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 390
+    },
+    {
+      "numberOfPlayers": 2,
+      "points": 12
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 388
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 384
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 381
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 369
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 84
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 381
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 380
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 366
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 378
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 351
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 377
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 376
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 347
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 375
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 337
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 373
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 342
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 373
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 34
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 372
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 22
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 370
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 335
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 370
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 332
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 370
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 368
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 332
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 368
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 331
+    },
+    {
+      "numberOfPlayers": 3,
+      "points": 7
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 368
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 365
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 330
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 365
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 359
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 358
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 347
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 331
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 346
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 296
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 346
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 344
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 330
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 344
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 325
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 344
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 318
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 343
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 320
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 342
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 341
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 337
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 282
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 335
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 334
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 333
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 331
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 281
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 8,
+      "points": 328
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 323
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 250
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 326
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 222
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 326
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 323
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 313
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 323
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 210
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 322
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 177
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 321
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 319
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 160
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 318
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 7,
+      "points": 317
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 316
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 296
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 315
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 310
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 313
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 278
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 313
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 311
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 308
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 308
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 307
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 302
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 272
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 300
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 256
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 298
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 297
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 8,
+      "points": 297
+    },
+    {
+      "numberOfPlayers": 11,
+      "points": 295
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 297
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 296
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 244
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 295
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 294
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 295
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 292
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 294
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 282
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 293
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 288
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 285
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 280
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 284
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 283
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 279
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 283
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 156
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 282
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 278
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 277
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 239
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 275
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 266
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 271
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 269
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 267
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 224
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 266
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 208
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 260
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 140
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 6,
+      "points": 259
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 257
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 239
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 257
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 185
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 256
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 254
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 222
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 253
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 212
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 251
+    },
+    {
+      "numberOfPlayers": 11,
+      "points": 236
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 250
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 248
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 147
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 247
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 197
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 247
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 243
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 177
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 243
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 172
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 243
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 168
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 243
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 240
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 238
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 138
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 234
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 232
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 229
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 228
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 229
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 227
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 133
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 227
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 226
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 225
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 152
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 225
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 223
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 218
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 193
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 218
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 215
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 142
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 214
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 133
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 214
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 110
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 211
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 129
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 210
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 106
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 209
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 208
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 125
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 203
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 193
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 201
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 196
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 195
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 120
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 195
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 107
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 195
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 89
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 190
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 76
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 190
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 49
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 190
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 9,
+      "points": 185
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 183
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 185
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 184
+    },
+    {
+      "numberOfPlayers": 4,
+      "points": 4
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 182
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 78
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 181
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 147
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 179
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 135
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 179
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 67
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 179
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 177
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 174
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 176
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 119
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 174
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 73
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 174
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 173
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 100
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 172
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 171
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 169
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 119
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 168
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 160
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 168
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 63
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 167
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 166
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 29
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 164
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 158
+    },
+    {
+      "numberOfPlayers": 5,
+      "points": 13
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 154
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 133
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 152
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 148
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 147
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 13
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 144
+    },
+    {
+      "numberOfPlayers": 9,
+      "points": 112
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 144
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 137
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 137
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 135
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 9
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 131
+    },
+    {
+      "numberOfPlayers": 6,
+      "points": 6
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 131
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 128
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 125
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 124
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 120
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 119
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 116
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 116
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 114
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 113
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 105
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 104
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 93
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 101
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 100
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 57
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 100
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 41
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 98
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 34
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 96
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 14
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 95
+    },
+    {
+      "numberOfPlayers": 7,
+      "points": 1
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 95
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 93
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 48
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 92
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 87
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 84
+    },
+    {
+      "numberOfPlayers": 10,
+      "points": 48
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 15,
+      "points": 84
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 82
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 81
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 80
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 78
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 47
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 78
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 72
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 72
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 70
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 68
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 42
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 68
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 61
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 19,
+      "points": 52
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 51
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 51
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 49
+    },
+    {
+      "numberOfPlayers": 8,
+      "points": 8
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 42
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 42
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 39
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 39
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 36
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 35
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 34
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 33
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 16,
+      "points": 32
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 32
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 31
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 30
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 29
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 27
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 27
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 26
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 26
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 10,
+      "points": 25
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 13,
+      "points": 23
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 11,
+      "points": 19
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 18
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 17,
+      "points": 12
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 20,
+      "points": 10
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 12,
+      "points": 9
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 14,
+      "points": 8
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 5
+    }
+  ],
+  [
+    {
+      "numberOfPlayers": 18,
+      "points": 2
+    }
+  ]
+]
