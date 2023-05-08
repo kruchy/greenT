@@ -1,0 +1,501 @@
+[ {
+  "account" : "00370183617349265558786",
+  "debitCount" : 991,
+  "creditCount" : 1030,
+  "balance" : 4322.15
+}, {
+  "account" : "09270757865119577853184",
+  "debitCount" : 978,
+  "creditCount" : 1010,
+  "balance" : -4493.95
+}, {
+  "account" : "09728370516902736297100",
+  "debitCount" : 982,
+  "creditCount" : 1005,
+  "balance" : 24146.10
+}, {
+  "account" : "11208845756920441003957",
+  "debitCount" : 981,
+  "creditCount" : 1037,
+  "balance" : 25420.71
+}, {
+  "account" : "12190359815329983742815",
+  "debitCount" : 1013,
+  "creditCount" : 1007,
+  "balance" : -31461.82
+}, {
+  "account" : "13127604897447554250376",
+  "debitCount" : 990,
+  "creditCount" : 983,
+  "balance" : -7386.73
+}, {
+  "account" : "15497575859728021993654",
+  "debitCount" : 1008,
+  "creditCount" : 976,
+  "balance" : -26892.14
+}, {
+  "account" : "15792542665922383997548",
+  "debitCount" : 999,
+  "creditCount" : 1000,
+  "balance" : -17011.69
+}, {
+  "account" : "16355855119674232252402",
+  "debitCount" : 1007,
+  "creditCount" : 1005,
+  "balance" : 4481.70
+}, {
+  "account" : "16898898925503373968084",
+  "debitCount" : 1014,
+  "creditCount" : 952,
+  "balance" : -21921.44
+}, {
+  "account" : "17540825613685357774217",
+  "debitCount" : 1017,
+  "creditCount" : 974,
+  "balance" : -19181.41
+}, {
+  "account" : "19128720068075528356022",
+  "debitCount" : 975,
+  "creditCount" : 1022,
+  "balance" : 43372.27
+}, {
+  "account" : "19857392248353407642857",
+  "debitCount" : 1015,
+  "creditCount" : 1036,
+  "balance" : -1648.52
+}, {
+  "account" : "20637390324915239264757",
+  "debitCount" : 1027,
+  "creditCount" : 1011,
+  "balance" : -21523.37
+}, {
+  "account" : "21627130397711229952520",
+  "debitCount" : 1047,
+  "creditCount" : 1003,
+  "balance" : -47004.03
+}, {
+  "account" : "23872468420688494405380",
+  "debitCount" : 979,
+  "creditCount" : 964,
+  "balance" : 2981.21
+}, {
+  "account" : "24795658074361294783688",
+  "debitCount" : 979,
+  "creditCount" : 959,
+  "balance" : -5697.38
+}, {
+  "account" : "25714647202482814148389",
+  "debitCount" : 996,
+  "creditCount" : 982,
+  "balance" : -11523.76
+}, {
+  "account" : "28188924049511033217033",
+  "debitCount" : 987,
+  "creditCount" : 1024,
+  "balance" : 43368.89
+}, {
+  "account" : "29068559748022586625146",
+  "debitCount" : 976,
+  "creditCount" : 1012,
+  "balance" : 8229.11
+}, {
+  "account" : "29279687101007842813678",
+  "debitCount" : 1022,
+  "creditCount" : 984,
+  "balance" : -13085.75
+}, {
+  "account" : "29989384398780847569797",
+  "debitCount" : 987,
+  "creditCount" : 1055,
+  "balance" : 20823.32
+}, {
+  "account" : "30840737604674066457942",
+  "debitCount" : 964,
+  "creditCount" : 986,
+  "balance" : 14189.78
+}, {
+  "account" : "30950337203393126888109",
+  "debitCount" : 985,
+  "creditCount" : 965,
+  "balance" : -2939.80
+}, {
+  "account" : "31081704193858226922510",
+  "debitCount" : 958,
+  "creditCount" : 1010,
+  "balance" : 35784.17
+}, {
+  "account" : "31934623204023463122541",
+  "debitCount" : 1097,
+  "creditCount" : 1028,
+  "balance" : -28793.75
+}, {
+  "account" : "32537226767986299223920",
+  "debitCount" : 939,
+  "creditCount" : 1034,
+  "balance" : 45044.39
+}, {
+  "account" : "32833286118733673424490",
+  "debitCount" : 1030,
+  "creditCount" : 1007,
+  "balance" : -10918.88
+}, {
+  "account" : "33522280835564630832228",
+  "debitCount" : 997,
+  "creditCount" : 971,
+  "balance" : 10679.66
+}, {
+  "account" : "33951417733842250007619",
+  "debitCount" : 994,
+  "creditCount" : 1015,
+  "balance" : 20346.31
+}, {
+  "account" : "34504777677068803378032",
+  "debitCount" : 952,
+  "creditCount" : 1034,
+  "balance" : 38481.33
+}, {
+  "account" : "34641598321144441213625",
+  "debitCount" : 985,
+  "creditCount" : 995,
+  "balance" : 6389.30
+}, {
+  "account" : "36820191090684177753678",
+  "debitCount" : 976,
+  "creditCount" : 1014,
+  "balance" : 36573.86
+}, {
+  "account" : "37846142942105056942094",
+  "debitCount" : 985,
+  "creditCount" : 986,
+  "balance" : 25102.22
+}, {
+  "account" : "38351721876524512471528",
+  "debitCount" : 971,
+  "creditCount" : 965,
+  "balance" : -4853.47
+}, {
+  "account" : "38827395506158116942118",
+  "debitCount" : 1039,
+  "creditCount" : 1032,
+  "balance" : 10658.57
+}, {
+  "account" : "40693135954531404824695",
+  "debitCount" : 977,
+  "creditCount" : 1003,
+  "balance" : 17205.00
+}, {
+  "account" : "41452001290306491508669",
+  "debitCount" : 956,
+  "creditCount" : 1008,
+  "balance" : 33273.19
+}, {
+  "account" : "42876093477596597258623",
+  "debitCount" : 956,
+  "creditCount" : 1005,
+  "balance" : 28202.80
+}, {
+  "account" : "45984441473346530688780",
+  "debitCount" : 1000,
+  "creditCount" : 1037,
+  "balance" : 26197.19
+}, {
+  "account" : "46567262041292486097250",
+  "debitCount" : 1046,
+  "creditCount" : 977,
+  "balance" : -61195.17
+}, {
+  "account" : "46701333941919265636158",
+  "debitCount" : 1000,
+  "creditCount" : 1036,
+  "balance" : 23030.48
+}, {
+  "account" : "48180976034581768128822",
+  "debitCount" : 1013,
+  "creditCount" : 1026,
+  "balance" : 2427.49
+}, {
+  "account" : "48481675453966869678317",
+  "debitCount" : 1016,
+  "creditCount" : 967,
+  "balance" : -29848.13
+}, {
+  "account" : "49322703374623174110849",
+  "debitCount" : 995,
+  "creditCount" : 978,
+  "balance" : 1891.76
+}, {
+  "account" : "50731885990369308619952",
+  "debitCount" : 1029,
+  "creditCount" : 967,
+  "balance" : -49468.90
+}, {
+  "account" : "52576743196575420887241",
+  "debitCount" : 1033,
+  "creditCount" : 1015,
+  "balance" : -6100.77
+}, {
+  "account" : "53805483352932655248632",
+  "debitCount" : 987,
+  "creditCount" : 1005,
+  "balance" : 2907.13
+}, {
+  "account" : "53974140676531670121235",
+  "debitCount" : 970,
+  "creditCount" : 960,
+  "balance" : -6191.33
+}, {
+  "account" : "56118286849967499855456",
+  "debitCount" : 1042,
+  "creditCount" : 1001,
+  "balance" : -26550.50
+}, {
+  "account" : "56245910278912701536062",
+  "debitCount" : 974,
+  "creditCount" : 974,
+  "balance" : 4644.58
+}, {
+  "account" : "57099528152945878946748",
+  "debitCount" : 1003,
+  "creditCount" : 992,
+  "balance" : 3935.59
+}, {
+  "account" : "58898452752245712175498",
+  "debitCount" : 1026,
+  "creditCount" : 1042,
+  "balance" : 35099.05
+}, {
+  "account" : "59080731270686556628106",
+  "debitCount" : 968,
+  "creditCount" : 1028,
+  "balance" : 53045.77
+}, {
+  "account" : "59522972244291992563411",
+  "debitCount" : 974,
+  "creditCount" : 1033,
+  "balance" : 46625.92
+}, {
+  "account" : "61894800156406028087806",
+  "debitCount" : 987,
+  "creditCount" : 1051,
+  "balance" : 68294.66
+}, {
+  "account" : "62262505461854714314535",
+  "debitCount" : 1005,
+  "creditCount" : 966,
+  "balance" : -32386.80
+}, {
+  "account" : "62363612010693013810729",
+  "debitCount" : 981,
+  "creditCount" : 1032,
+  "balance" : -2432.41
+}, {
+  "account" : "62646237057803918599132",
+  "debitCount" : 985,
+  "creditCount" : 1008,
+  "balance" : 38377.67
+}, {
+  "account" : "64326850277106224645105",
+  "debitCount" : 1038,
+  "creditCount" : 975,
+  "balance" : -47498.28
+}, {
+  "account" : "65713367762164164038114",
+  "debitCount" : 985,
+  "creditCount" : 1001,
+  "balance" : -3197.46
+}, {
+  "account" : "67062411647442071051501",
+  "debitCount" : 1020,
+  "creditCount" : 948,
+  "balance" : -25113.85
+}, {
+  "account" : "68105227475199104778101",
+  "debitCount" : 1047,
+  "creditCount" : 969,
+  "balance" : -61355.39
+}, {
+  "account" : "69432879144978288771998",
+  "debitCount" : 975,
+  "creditCount" : 943,
+  "balance" : -2651.85
+}, {
+  "account" : "71104707446859462736212",
+  "debitCount" : 1046,
+  "creditCount" : 1011,
+  "balance" : -31343.81
+}, {
+  "account" : "72001939715488605079158",
+  "debitCount" : 971,
+  "creditCount" : 987,
+  "balance" : 17815.36
+}, {
+  "account" : "72426935651646361782515",
+  "debitCount" : 1006,
+  "creditCount" : 993,
+  "balance" : 7314.46
+}, {
+  "account" : "73892871162288043975606",
+  "debitCount" : 1081,
+  "creditCount" : 993,
+  "balance" : -36890.95
+}, {
+  "account" : "75365899545895634331702",
+  "debitCount" : 1086,
+  "creditCount" : 995,
+  "balance" : -51650.90
+}, {
+  "account" : "75483323648496361700451",
+  "debitCount" : 1036,
+  "creditCount" : 958,
+  "balance" : -39709.05
+}, {
+  "account" : "76450123033590886903252",
+  "debitCount" : 980,
+  "creditCount" : 997,
+  "balance" : -18655.00
+}, {
+  "account" : "76480136851156121021898",
+  "debitCount" : 1012,
+  "creditCount" : 1031,
+  "balance" : 7272.24
+}, {
+  "account" : "79438097435580294497567",
+  "debitCount" : 1053,
+  "creditCount" : 1031,
+  "balance" : -14910.67
+}, {
+  "account" : "79741117672538742839870",
+  "debitCount" : 958,
+  "creditCount" : 1065,
+  "balance" : 76366.82
+}, {
+  "account" : "80479736493371460232102",
+  "debitCount" : 988,
+  "creditCount" : 1030,
+  "balance" : 42137.88
+}, {
+  "account" : "81421891510067223974604",
+  "debitCount" : 992,
+  "creditCount" : 970,
+  "balance" : -3659.72
+}, {
+  "account" : "81556847421617446538074",
+  "debitCount" : 977,
+  "creditCount" : 979,
+  "balance" : 15941.36
+}, {
+  "account" : "81744055642356251853921",
+  "debitCount" : 1021,
+  "creditCount" : 997,
+  "balance" : -23797.84
+}, {
+  "account" : "82670575694932722279386",
+  "debitCount" : 967,
+  "creditCount" : 978,
+  "balance" : 10832.12
+}, {
+  "account" : "82712707245501617915851",
+  "debitCount" : 1006,
+  "creditCount" : 1012,
+  "balance" : -18718.67
+}, {
+  "account" : "82794583174049970482715",
+  "debitCount" : 988,
+  "creditCount" : 1009,
+  "balance" : 18805.19
+}, {
+  "account" : "83162653488058031476122",
+  "debitCount" : 1012,
+  "creditCount" : 969,
+  "balance" : -29262.63
+}, {
+  "account" : "85313873371066061603288",
+  "debitCount" : 1004,
+  "creditCount" : 1058,
+  "balance" : 30759.48
+}, {
+  "account" : "86832963745077663859401",
+  "debitCount" : 1020,
+  "creditCount" : 997,
+  "balance" : -24313.48
+}, {
+  "account" : "87361059184316036170600",
+  "debitCount" : 925,
+  "creditCount" : 960,
+  "balance" : 24755.35
+}, {
+  "account" : "87555796231617375211077",
+  "debitCount" : 1002,
+  "creditCount" : 1014,
+  "balance" : 24158.29
+}, {
+  "account" : "89637006022935888434564",
+  "debitCount" : 989,
+  "creditCount" : 1019,
+  "balance" : -14324.61
+}, {
+  "account" : "89768181309623045015320",
+  "debitCount" : 991,
+  "creditCount" : 1015,
+  "balance" : -1670.59
+}, {
+  "account" : "89867662167846420034127",
+  "debitCount" : 965,
+  "creditCount" : 973,
+  "balance" : -11732.07
+}, {
+  "account" : "90453616648713068229333",
+  "debitCount" : 1052,
+  "creditCount" : 979,
+  "balance" : -50095.20
+}, {
+  "account" : "90531828391809571653984",
+  "debitCount" : 1025,
+  "creditCount" : 984,
+  "balance" : -8380.24
+}, {
+  "account" : "91896749597522291951967",
+  "debitCount" : 994,
+  "creditCount" : 1006,
+  "balance" : 22710.90
+}, {
+  "account" : "92309872563586314780201",
+  "debitCount" : 1020,
+  "creditCount" : 993,
+  "balance" : -19827.84
+}, {
+  "account" : "94703988948208097267151",
+  "debitCount" : 979,
+  "creditCount" : 1039,
+  "balance" : 28996.27
+}, {
+  "account" : "95362979610358531197256",
+  "debitCount" : 1006,
+  "creditCount" : 979,
+  "balance" : -19765.19
+}, {
+  "account" : "97548397026552185333966",
+  "debitCount" : 982,
+  "creditCount" : 969,
+  "balance" : -35000.63
+}, {
+  "account" : "97974226105068504140757",
+  "debitCount" : 983,
+  "creditCount" : 997,
+  "balance" : -20044.61
+}, {
+  "account" : "98017479024356119707176",
+  "debitCount" : 997,
+  "creditCount" : 1017,
+  "balance" : 5671.66
+}, {
+  "account" : "98047899753600535763545",
+  "debitCount" : 1031,
+  "creditCount" : 987,
+  "balance" : -28725.98
+}, {
+  "account" : "98117920775243216359237",
+  "debitCount" : 1025,
+  "creditCount" : 989,
+  "balance" : -6282.30
+} ]
