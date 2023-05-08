@@ -1,8 +1,8 @@
-package atmservice.web;
+package com.misiak.atmservice.web;
 
+import com.misiak.atmservice.service.ATMService;
 import com.misiak.atmservice.model.ATM;
 import com.misiak.atmservice.model.Task;
-import com.misiak.atmservice.service.ATMService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

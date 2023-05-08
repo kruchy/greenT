@@ -1,4 +1,4 @@
-package atmservice.model;
+package com.misiak.atmservice.model;
 
 
 public enum RequestType {

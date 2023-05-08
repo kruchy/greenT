@@ -1,4 +1,4 @@
-package atmservice.service;
+package com.misiak.atmservice.service;
 
 import com.misiak.atmservice.model.ATM;
 import com.misiak.atmservice.model.Task;
