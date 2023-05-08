@@ -4,7 +4,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.misiak'
+group = 'com.kruchy'
 version = '0.0.1'
 sourceCompatibility = '17'
 repositories {
