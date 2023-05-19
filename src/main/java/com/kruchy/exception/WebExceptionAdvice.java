@@ -1,4 +1,4 @@
-package com.kruchy.transactions.exception;
+package com.kruchy.exception;
 
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
